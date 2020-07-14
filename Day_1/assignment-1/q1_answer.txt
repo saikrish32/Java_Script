@@ -1,0 +1,17 @@
+console.log(A);
+Return value: It returns the value of the parameter given.
+
+console.log(func());
+If the function is passed to the function console.log(), then the function will display the value of the passed function().
+
+console.time();
+It return the time and we can use to measure the execution time
+
+console.table();
+It is used to create the tables in js
+
+console.warn();
+It is used to get some warning notice in the website
+
+
+

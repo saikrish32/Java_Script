@@ -1,0 +1,19 @@
+Available data types in JavaScript
+
+There are eight basic data types in JavaScript
+
+1.Number
+
+2.BigInt
+
+3.String
+
+4.Boolean (logical type)
+
+5.Objects and Symbols
+
+6.The typeof operator
+
+7.null
+
+8.undefined

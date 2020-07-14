@@ -1,0 +1,7 @@
+Difference between var,let and const
+
+var is used for variables which are used globally where we can access the variables entirely anywhere in the program
+
+Let is used for local variables they are used to declare variables in function and used in the function only.
+
+const is the constant variable where we declare the value during intilization and we can't change it later if we try it throws error.
